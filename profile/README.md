@@ -1,5 +1,5 @@
-![Smitnet Logo](./assets/smit-dark-long-15-jaar.svg#gh-dark-mode-only)
-![Smitnet Logo](./assets/smit-light-long-15-jaar.svg#gh-light-mode-only)
+![Smitnet Logo](./assets/smit-light-long-15-jaar.svg#gh-dark-mode-only)
+![Smitnet Logo](./assets/smit-dark-long-15-jaar.svg#gh-light-mode-only)
 
 
 
