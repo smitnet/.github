@@ -1,4 +1,4 @@
-# [SMIT. Digitaal vakmanschap](https://smit.net)
+<img src="https://smit.net/assets/images/smit-dark-long-15-jaar.svg" />
 ### Netherlands based agency for Webdevelopment, Webdesign, WebApps, Rest-APIs and headless CMS  👋
 
 
