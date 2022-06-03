@@ -1,4 +1,7 @@
-<img src="https://smit.net/assets/images/smit-dark-long-15-jaar.svg" width="50%" />
+![Smitnet Logo](./assets/smit-dark-long-15-jaar.svg#gh-dark-mode-only)
+![Smitnet Logo](./assets/smit-light-long-15-jaar.svg#gh-light-mode-only)
+
+
 
 #### Netherlands based agency for Webdevelopment, Webdesign, WebApps, Rest-APIs and headless CMS  👋
 
